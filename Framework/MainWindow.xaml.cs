@@ -24,5 +24,10 @@ namespace Framework
         {
             InitializeComponent();
         }
+
+        public void Test()
+        {
+            MessageBox.Show("Hello World!");
+        }
     }
 }
